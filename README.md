@@ -1,5 +1,5 @@
 # Graph-Neural-Networks
-Introduction to graph neural networks 
+Знакомство с графовымы нейронными сетями, реализации генерации фичей из графовых данных и обучение моделей. Ниже представлены подробные описания исследований:
 
 ## 1. Hand-crafted graph features
 
